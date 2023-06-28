@@ -79,7 +79,7 @@ To use this module, you need to ensure that the 7-Zip command-line tool is insta
 
 1. Locate an appropriate PowerShell module folder.
 
-2. Create a new directory within a module folder of the same name as this module (i.e., "ProtectingFolders").
+2. Create a new directory within a module folder of the same name as this module (i.e., `ProtectingArchives`).
 
 3. Place the script inside the new folder.
 
